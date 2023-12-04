@@ -6,7 +6,7 @@ The model performances are measured using statistical metrics such as  MSE, RMSE
 The problem was approached from a regression standpoint due to the CTR feature being a continuous variable. 
 The machine learning algorithms implemented include:
 
-- Linear regression
+- Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
 - XGBoost Regressor
