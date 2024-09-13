@@ -1,6 +1,6 @@
 # Machine-Learning-Model-to-Predict-CTR-with-Python
 
-This project is aimed at building machine learning models to predict click-through rates (CTR) based on historical marketing data.
+[This project](https://github.com/AdemolaI/Machine-Learning-Model-to-Predict-CTR-with-Python/blob/master/Machine_Learning_Models_to_Predict_CTR.ipynb) is aimed at building machine learning models to predict click-through rates (CTR) based on historical marketing data.
 The model performances are measured using statistical metrics such as  MSE, RMSE, MAE and R-squared.
 
 The problem was approached from a regression standpoint due to the CTR feature being a continuous variable. 
